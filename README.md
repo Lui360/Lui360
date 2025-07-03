@@ -30,7 +30,7 @@ Soy desarrolladora en Python especializada en **automatización de tareas, anál
 ---
 
 ### 📫 Contacto
-- 📧 luisagarciatorres@gmail.com
+- 📧 [Mail](luisagarciatorres@gmail.com)
 - 💼 [LinkedIn](https:www.linkedin.com/in/luisa-garcia-torres)  
 - 🌍 Disponible para proyectos freelance remotos desde Europa 🌎
 
