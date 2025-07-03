@@ -1,16 +1,39 @@
-## Hi there 👋
+# ¡Hola! Soy Lui 👋
 
-<!--
-**Lui360/Lui360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora en Python especializada en **automatización de tareas, análisis de datos** y creación de **dashboards interactivos**. Actualmente estoy dando mis primeros pasos como freelance, buscando ayudar a empresas o profesionales a resolver problemas reales con soluciones simples y eficientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 ¿Qué puedo hacer?
+- Automatizar tareas repetitivas (scraping, informes automáticos, etc.)
+- Limpiar y analizar datos con **Pandas**
+- Crear visualizaciones y dashboards con **Streamlit**
+- Trabajar con APIs, datos en CSV/Excel/JSON
+- Desarrollar scripts útiles y bien documentados
+
+---
+
+### 🧰 Tecnologías que utilizo
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 📂 Mis proyectos destacados
+- [**Calculadora de intereses judiciales**](https://interesesjudiciales.es) – Web en producción para cálculos legales en España.
+- [Dashboard de ventas (Streamlit)](link-aquí-pronto) – Panel interactivo con filtros para analizar KPIs.
+- [Script de scraping básico](link-pronto) – Recoge datos automáticamente desde una web pública.
+
+---
+
+### 📫 Contacto
+- 📧 [luisagarciatorres@gmail.com]
+- 💼 [Tu LinkedIn](https:www.linkedin.com/in/luisa-garcia-torres)  
+- 🌍 Disponible para proyectos freelance remotos desde Europa 🌎
+
+---
+
+_Gracias por visitar mi perfil 🤗_  
