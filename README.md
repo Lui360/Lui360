@@ -14,8 +14,8 @@ Soy desarrolladora en Python especializada en **automatización de tareas, anál
 ---
 
 ### 🧰 Tecnologías que utilizo
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,seaborn,jupyter,matplotlib,numpy,sqlite,streamlit,scikitlearn,tensorflow,vscode,github,figma&theme=light,flutter&perline=3,yew&titles=true)](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,seaborn,jupyter,matplotlib,numpy,sqlite,streamlit,scikitlearn,tensorflow,vscode,github,figma&theme=light&perline=3&titles=true
-)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,seaborn,jupyter,matplotlib,numpy,sqlite,streamlit,scikitlearn,tensorflow,vscode,github,figma&theme=light&perline=3&titles=true)
+
 ---
 
 ### 📂 Mis proyectos destacados
