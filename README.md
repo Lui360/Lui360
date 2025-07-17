@@ -1,4 +1,4 @@
-# ¡Hola! Soy Luisa 👋
+# ¡Hola!
 
 Soy desarrolladora en Python especializada en **automatización de tareas, análisis de datos** y creación de **dashboards interactivos**. Actualmente estoy dando mis primeros pasos como freelance, buscando ayudar a empresas o profesionales a resolver problemas reales con soluciones simples y eficientes.
 
