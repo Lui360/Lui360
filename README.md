@@ -24,6 +24,7 @@ Soy desarrolladora especializada en **Python**, con experiencia en **automatizac
 
 #### Herramientas
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,notion,slack&theme=light&perline=14&titles=true)
+
 ---
 
 ### 📂 Mis proyectos destacados
