@@ -14,22 +14,22 @@ Soy desarrolladora en Python especializada en **automatización de tareas, anál
 ---
 
 ### 🧰 Tecnologías que utilizo
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(40px, 1fr)); gap: 12px; align-items: center; max-width: 400px;">
-  <img src="https://go-skill-icons.vercel.app/api/icons/python/light" height="40" alt="Python" />
-  <img src="https://go-skill-icons.vercel.app/api/icons/pandas/light" height="40" alt="Pandas" />
-  <img src="https://go-skill-icons.vercel.app/api/icons/seaborn/light" height="40" alt="Seaborn" />
-  <img src="https://go-skill-icons.vercel.app/api/icons/jupyter/light" height="40" alt="Jupyter" />
-  <img src="https://go-skill-icons.vercel.app/api/icons/matplotlib/light" height="40" alt="Matplotlib" />
-  <img src="https://go-skill-icons.vercel.app/api/icons/numpy/light" height="40" alt="NumPy" />
-  <img src="https://go-skill-icons.vercel.app/api/icons/sql/light" height="40" alt="SQL" />
-  <img src="https://go-skill-icons.vercel.app/api/icons/streamlit/light" height="40" alt="Streamlit" />
-  <img src="https://go-skill-icons.vercel.app/api/icons/scikit-learn/light" height="40" alt="scikit-learn" />
-  <img src="https://go-skill-icons.vercel.app/api/icons/keras/light" height="40" alt="Keras" />
-  <img src="https://go-skill-icons.vercel.app/api/icons/tensorflow/light" height="40" alt="TensorFlow" />
-  <img src="https://go-skill-icons.vercel.app/api/icons/vscode/light" height="40" alt="VS Code" />
-  <img src="https://go-skill-icons.vercel.app/api/icons/github/light" height="40" alt="GitHub" />
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons/python/light" height="40" alt="Python" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons/pandas/light" height="40" alt="Pandas" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons/seaborn/light" height="40" alt="Seaborn" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons/jupyter/light" height="40" alt="Jupyter" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons/matplotlib/light" height="40" alt="Matplotlib" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons/numpy/light" height="40" alt="NumPy" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons/sql/light" height="40" alt="SQL" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons/streamlit/light" height="40" alt="Streamlit" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons/scikit-learn/light" height="40" alt="Scikit-learn" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons/keras/light" height="40" alt="Keras" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons/tensorflow/light" height="40" alt="TensorFlow" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons/vscode/light" height="40" alt="VSCode" />&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons/github/light" height="40" alt="GitHub" />&nbsp;&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons/figma/light" height="40" alt="Figma" />
-</div>
+</p>
 ---
 
 ### 📂 Mis proyectos destacados
