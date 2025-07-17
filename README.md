@@ -17,13 +17,13 @@ Soy desarrolladora especializada en **Python**, con experiencia en **automatizac
 ### ⚙️ Tecnologías y herramientas
 
 #### Lenguajes
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,mysql,r&theme=light&perline=14&titles=true)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,r&theme=light&perline=14&titles=true)
 
 #### Tecnologías
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,seaborn,matplotlib,scikitlearn,tensorflow,jupyter,streamlit&theme=light&perline=14&titles=true)
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,seaborn,matplotlib,scikitlearn,tensorflow,jupyter,streamlit,mysql&theme=light&perline=14&titles=true)
 
 #### Herramientas
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,notion&theme=light&perline=14&titles=true)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,notion,slack&theme=light&perline=14&titles=true)
 ---
 
 ### 📂 Mis proyectos destacados
