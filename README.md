@@ -1,4 +1,4 @@
-# 👩‍💻 Luisa García Torres – Desarrolladora Python
+# 👩‍💻 Desarrolladora Python
 
 ¡Hola!
 Soy desarrolladora especializada en **Python**, con experiencia en **automatización de tareas**, **análisis de datos** y desarrollo de **dashboards interactivos**. Actualmente me encuentro dando mis primeros pasos como freelance, ayudando a empresas y profesionales a transformar datos en soluciones simples, efectivas y bien documentadas.
