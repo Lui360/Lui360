@@ -14,12 +14,22 @@ Soy desarrolladora en Python especializada en **automatización de tareas, anál
 ---
 
 ### 🧰 Tecnologías que utilizo
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(40px, 1fr)); gap: 12px; align-items: center; max-width: 400px;">
+  <img src="https://go-skill-icons.vercel.app/api/icons/python/light" height="40" alt="Python" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/pandas/light" height="40" alt="Pandas" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/seaborn/light" height="40" alt="Seaborn" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/jupyter/light" height="40" alt="Jupyter" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/matplotlib/light" height="40" alt="Matplotlib" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/numpy/light" height="40" alt="NumPy" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/sql/light" height="40" alt="SQL" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/streamlit/light" height="40" alt="Streamlit" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/scikit-learn/light" height="40" alt="scikit-learn" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/keras/light" height="40" alt="Keras" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/tensorflow/light" height="40" alt="TensorFlow" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/vscode/light" height="40" alt="VS Code" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/github/light" height="40" alt="GitHub" />
+  <img src="https://go-skill-icons.vercel.app/api/icons/figma/light" height="40" alt="Figma" />
+</div>
 ---
 
 ### 📂 Mis proyectos destacados
