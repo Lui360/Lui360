@@ -1,15 +1,16 @@
-# ¡Hola!
+# 👩‍💻 Luisa García Torres – Desarrolladora Python
 
-Soy desarrolladora en Python especializada en **automatización de tareas, análisis de datos** y creación de **dashboards interactivos**. Actualmente estoy dando mis primeros pasos como freelance, buscando ayudar a empresas o profesionales a resolver problemas reales con soluciones simples y eficientes.
+¡Hola!
+Soy desarrolladora especializada en **Python**, con experiencia en **automatización de tareas**, **análisis de datos** y desarrollo de **dashboards interactivos**. Actualmente me encuentro dando mis primeros pasos como freelance, ayudando a empresas y profesionales a transformar datos en soluciones simples, efectivas y bien documentadas.
 
 ---
 
 ### 🚀 ¿Qué puedo hacer?
-- Automatizar tareas repetitivas (scraping, informes automáticos, etc.)
-- Limpiar y analizar datos con **Pandas**
-- Crear visualizaciones y dashboards con **Streamlit**
-- Trabajar con APIs, datos en CSV/Excel/JSON
-- Desarrollar scripts útiles y bien documentados
+- Automatización de procesos repetitivos (scraping, generación de informes, alertas…)
+- Limpieza, análisis y transformación de datos con **Pandas** y **NumPy**
+- Creación de dashboards con **Streamlit** o visualizaciones con **Seaborn / Matplotlib**
+- Consumo de APIs y manejo de datos en formatos **CSV, Excel, JSON**
+- Desarrollo de scripts útiles, claros y fácilmente mantenibles
 
 ---
 
@@ -18,17 +19,21 @@ Soy desarrolladora en Python especializada en **automatización de tareas, anál
 ---
 
 ### 📂 Mis proyectos destacados
-- [**Calculadora de intereses judiciales**](https://interesesjudiciales.es) – Web en producción para cálculos legales en España.
-- [Dashboard de ventas (Streamlit)](link-aquí-pronto) – Panel interactivo con filtros para analizar KPIs.
-- [Script de scraping básico](link-pronto) – Recoge datos automáticamente desde una web pública.
+- 🔹 [**Calculadora de intereses judiciales**](https://interesesjudiciales.es)  
+  Aplicación web para el cálculo de intereses legales en España. Desarrollada en Python y desplegada en producción.
+
+- 🔹 Dashboard de ventas (en desarrollo)  
+  Visualización interactiva de KPIs con **Streamlit** y filtros dinámicos.
 
 ---
 
-### 📫 Contacto
-- 📧 [Mail](luisagarciatorres@gmail.com)
-- 💼 [LinkedIn](https:www.linkedin.com/in/luisa-garcia-torres)  
-- 🌍 Disponible para proyectos freelance remotos desde Europa 🌎
+### 📬 Contacto
+
+- 📧 **Correo**: [luisagarciatorres@gmail.com](mailto:luisagarciatorres@gmail.com)  
+- 💼 **LinkedIn**: [luisa-garcia-torres](https://www.linkedin.com/in/luisa-garcia-torres)  
+- 🌍 **Ubicación**: Disponible para proyectos freelance remotos desde Europa
 
 ---
 
-_Gracias por visitar mi perfil 🤗_  
+> _Gracias por pasarte por aquí. Estoy abierta a colaboraciones y nuevos retos 🤗_
+
